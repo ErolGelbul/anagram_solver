@@ -109,7 +109,7 @@ END OF TEST LOG
 
 Erol Gelbul - [My Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Painting Program](https://github.com/ErolGelbul/anagram_solver)
+Project Link: [Anagram Solver](https://github.com/ErolGelbul/anagram_solver)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
